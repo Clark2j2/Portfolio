@@ -1,0 +1,159 @@
+{
+  "main": {
+    "name":"John Clark",
+    "occupation":"Web Developer / Airline Pilot",
+    "description":"I recently earned a certificate in the MERN Stack from Coding Dojo. I have always been a lover of all things technology and wanted to learn how to write code. Not only did I learn to write code, I also learned how to apply my creativity, gained additional team collaboration skills, explored self study, and found a great desire to change my career path",
+    "image":"profilepic.jpg",
+    "bio":"I recently attended Coding Dojo with a goal of learning how to write code. Following the end of the course I've been working with many different frameworks to create clean, functional webpages. I enjoy working as a team and collaborating to create the best possible outcome for any projects.",
+    "contactmessage":"Feel free to reach me by Phone, SMS, Email, Sky Writing, or Smoke Signals!",
+    "email": "Clark2j2@johnmclark.com",
+    "phone": "513-967-4027",
+    "address":{
+      "street":"7547 Watercrest Lane",
+      "city":"Maineville",
+      "state":"Ohio",
+      "zip": "45039"
+    },
+    "website": "http://www.allaboutjohn.com",
+    "resumedownload":"Resume.pdf",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/john.m.clark/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/ClarkJM319",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/john-michael-clark-36819b1/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/clarkjm319/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Clark2j2",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"callto://Clowndude319",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Technical Skills",
+    "education":[
+      {
+        "school":"Coding Dojo",
+        "degree":"Certificate of Completion",
+        "graduated":"November 2020",
+        "description":"MERN Stack, where I learned how to create a full stack application and apply it to the real world. Examples of technologies learned are React, Express, MongoDB, HTML, CSS, Node.js, Axios, Socket.IO, Mongoose, REST API’s, GitHub, jQuery."
+      },
+      {
+        "school":"Embry-Riddle Aeronautical University",
+        "degree":"Bachelors in Aeronautics",
+        "graduated":"March 2019",
+        "description":"Major in Professional Aeronautics with a minor in Business Management. Graduating GPA: 3.85"
+      },
+      {
+        "school":"University of Cincinnati",
+        "degree":"Associates in Aviation Technology",
+        "graduated":"November 2012",
+        "description":"Major in Aviation Technology. Completed Commercial Pilot, and CFII certificates."
+      }
+    ],
+    "work":[
+      {
+        "company":"PSA Airlines",
+        "title":"Captain",
+        "years":"July 2017 - Present",
+        "description":"Volunteer for the ALPA sponsored communications committee managing our union website of approximately 3,000 pilots/members. Provide mentor services for onboarded pilots, giving them a point of contact for assistance. Endow customer service values in all aspects of operations and seize all opportunities to exceed customer’s expectations. Maintain a positive safety culture among employees within the organization."
+      },
+      {
+        "company":"Delta Private Jets",
+        "title":"First Officer",
+        "years":"May 2015 - July 2017",
+        "description":"Member of the hiring board and intermittent indoctrination instructor. Ensure all regulations and company policies and procedures are maintained. Always ensure the safety of our clients & employees. Provide outstanding customer service to our clients, and aircraft owners."
+      }
+    ],
+    "skills":[
+      {
+        "name":"React.js",
+        "level":"95%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"85%"
+      },
+      {
+        "name":"Git",
+        "level":"75%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"85%"
+      },
+      {
+        "name":"jQuery",
+        "level":"65%"
+      },
+      {
+        "name":"Axios",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Building Blocks for Kids",
+        "category":"Inventory System",
+        "image":"BB4K.jpg",
+        "url":"https://inventory.bb4k.org"
+      },
+      {
+        "title":"Git Hub - Kanban Job Board",
+        "category":"Group Project created for hiring boards",
+        "image":"Kanban.png",
+        "url":"https://github.com/Dawitworku/Job-Board-Proj"
+      },
+      {
+        "title":"Portfolio",
+        "category":"Created with React, ",
+        "image":"PortfolioWebsite.jpg",
+        "url":"allaboutjohn.com"
+      },
+      {
+        "title":"Team Roster",
+        "category":"Roster created to track players during a season",
+        "image":"TeamRoster.jpg",
+        "url":"https://github.com/Clark2j2/TeamRoster"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"If you do what you love, you'll never work a day in your life.",
+        "user":"Marc Anthony"
+      },
+      {
+        "text":"Be who you are and say what you feel, because those who mind don't matter and those who matter don't mind.",
+        "user":"Dr. Suess"
+      }
+    ]
+  }
+}
