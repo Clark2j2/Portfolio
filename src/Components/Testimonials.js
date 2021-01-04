@@ -21,7 +21,7 @@ class Testimonials extends Component {
 
             <div className="two columns header-col">
                {/* Formerly Testamonials */}
-               <h1><span>References</span></h1>
+               <h1><span>Favorite Quotes</span></h1>
             </div>
 
             <div className="ten columns flex-container">
